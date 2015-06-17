@@ -1,5 +1,5 @@
 === Show IP address ===
-Contributors: Keith Griffiths
+Contributors: Keith Griffiths, Keithgriffiths76
 Donate link: http://www.keith-griffiths.com
 Description: A simple plugin to show your IP address information.
 Tags: lookup ip address, ip lookup, ip address, show ip address
