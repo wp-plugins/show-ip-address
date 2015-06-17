@@ -11,7 +11,7 @@ Stable tag: 1.0
 == Description ==
 
 #### Shows Your IP address 
-The idea is simple, give it a go, let us know what you think of thins plugin. Any suggested updates, i'll consider in each build.
+The idea is simple, give it a go, let us know what you think of this plugin. Any suggested updates I'll consider in each build.
 
 #### Great for:
 * Your home page
@@ -53,6 +53,12 @@ This simply shows an IP address on a specific page or widget by simply adding in
 = Template Tags =
 
 [show_ip] use this tag on your pages to show your IP address.
+
+== Screenshots ==
+1. Display short code
+2. Dashboard
+3. Short code in a widget
+
 
 == Frequently Asked Questions ==
 
