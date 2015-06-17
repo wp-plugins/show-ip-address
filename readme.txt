@@ -27,18 +27,11 @@ This tag works on specific pages or widgets by simply adding in the tag [show_ip
 
 > What's my IP address: [show_ip]
 
----
-
-> #### Follow me
-> [Blog] (http://www.keith-griffiths.com/) | [Twitter] (https://twitter.com/Keith_Griffiths/) | [Facebook] (https://www.facebook.com/pages/Keith-Griffiths/300583519995412/) | [Linkedin] (https://www.linkedin.com/in/keithgriffiths/) | [Google+] (https://plus.google.com/+KeithGriffiths/posts/)
-
----
-
 == Installation ==
 
-You can find, download and install {Show IP address} (http://wordpress.org/plugins/show-ip-address/) directly from the **Plugins** section in WordPress.
+You can find, download and install [Show IP address] (http://wordpress.org/plugins/show-ip-address/) directly from the **Plugins** section in WordPress.
 
-If you want to install manually, download and unzip the show-ip-address.zip file and upload to the `/wp-content/plugins/ directory. Then activate the plugin through the **Plugins** section in WordPress.
+If you want to install manually, download and unzip the show-ip-address.zip file and upload to the /wp-content/plugins/ directory. Then activate the plugin through the **Plugins** section in WordPress.
 
 #### Widgets
 
