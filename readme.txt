@@ -28,7 +28,7 @@ This tag works on specific pages or widgets by simply adding in the tag [show_ip
 #### This is a FREE plugin
 
 > #### Follow me
-> [Blog] (http://www.keith-griffiths.com) | [Twitter] (https://twitter.com/Keith_Griffiths) | [Facebook] (https://www.facebook.com/pages/Keith-Griffiths/300583519995412) | [Linkedin] (https://www.linkedin.com/in/keithgriffiths) | [Google+] (https://plus.google.com/+KeithGriffiths/posts)
+> [Blog] (http://www.keith-griffiths.com/) | [Twitter] (https://twitter.com/Keith_Griffiths/) | [Facebook] (https://www.facebook.com/pages/Keith-Griffiths/300583519995412/) | [Linkedin] (https://www.linkedin.com/in/keithgriffiths/) | [Google+] (https://plus.google.com/+KeithGriffiths/posts/)
 
 == Installation ==
 
