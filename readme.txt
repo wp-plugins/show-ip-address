@@ -1,6 +1,6 @@
 === Show IP address ===
 Contributors: Keithgriffiths76
-Donate link: http://www.keith-griffiths.com
+Donate link: http://www.keith-griffiths.com/developer
 Description: A simple plugin to show your IP address information.
 Tags: lookup ip address, ip lookup, ip address, show ip address
 Licence: GPL2
