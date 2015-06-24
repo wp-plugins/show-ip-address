@@ -4,8 +4,8 @@ Donate link: http://www.keith-griffiths.com/developer
 Description: A simple plugin to show your IP address information.
 Tags: lookup ip address, ip lookup, ip address, show ip address
 Licence: GPL2
-Requires at least: 2.8
-Tested up to: 3.6
+Requires at least: 3.6
+Tested up to: 4.2.2
 Stable tag: 1.0
 
 == Description ==
