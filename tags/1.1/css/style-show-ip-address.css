@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box {
+  margin-top:10px; 
+  color:#666;
+}
+
+.img-show-ip {
+  max-width: 100%; 
+  height:auto; 
+  margin-top:10px; 
+  margin-bottom:10px;
+}
