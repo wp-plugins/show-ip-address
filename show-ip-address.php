@@ -45,7 +45,7 @@ function ip_address_display_settings(){
 		
 		echo '<strong>Q)</strong>. What\'s the point in showing a person there IP address? <br> <strong>A)</strong>. You may want to create a secure page are on your website and show the user their IP address.<hr>';
 
-        echo '<br><br><br><br>Thank you for using my plugin - Show IP address V.1 - Last Updated: 2015-7-11';
+        echo '<br><br><br><br>Thank you for using my plugin - Show IP address V.1.1 - Last Updated: 2015-7-11';
 }
 
 
