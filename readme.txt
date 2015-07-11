@@ -6,7 +6,7 @@ Tags: lookup ip address, ip lookup, ip address, show ip address
 Licence: GPL2
 Requires at least: 3.6
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 == Description ==
 
@@ -71,3 +71,6 @@ This simply shows an IP address on a specific page or widget by simply adding in
 
 = 1.0 =
 * Initial public release.
+
+= 1.1 =
+* Added in a settings area and updated the admin display.
