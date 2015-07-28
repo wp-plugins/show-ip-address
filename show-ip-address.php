@@ -3,7 +3,7 @@
  * Plugin name: Show IP address
  * Plugin URI: http://www.keith-griffiths.com
  * Description: A simple plugin to show your IP address information on any of your pages, posts or widgets. Shows your IP address on your Dashboard.
- * Version: 1.1
+ * Version: 1.2
  * Author: Keith Griffiths
  * Author URI: http://www.keith-griffiths.com
  * Licence: GPLv2
@@ -45,7 +45,7 @@ function ip_address_display_settings(){
 		
 		echo '<strong>Q)</strong>. What\'s the point in showing a person there IP address? <br> <strong>A)</strong>. You may want to create a secure page are on your website and show the user their IP address.<hr>';
 
-        echo '<br><br><br><br>Thank you for using my plugin - Show IP address V.1.1 - Last Updated: 2015-7-11';
+        echo '<br><br><br><br>Thank you for using my plugin - Show IP address V.1.2 - Last Updated: 2015-7-28';
 }
 
 
@@ -73,7 +73,14 @@ if(is_admin())
 			
 			echo "</div>\n\n";
 			
-			echo '<div class="box"><hr> Your IP address is something you might rarely think about, but it\'s important to know what your IP address is and when it changes. Your IP address is used to identify computers on the Internet. <hr> Want to know more about IP addresses <a href="https://en.wikipedia.org/wiki/IP_address">click here</a>. <img class="img-show-ip" src="https://ps.w.org/show-ip-address/assets/banner-772x250.jpg"> Show IP address, version 1.1</div>';
+            $uptime = shell_exec("cut -d. -f1 /proc/uptime");
+            $days = floor($uptime/60/60/24);
+            $hours = $uptime/60/60%24;
+            $mins = $uptime/60%60;
+            $secs = $uptime%60;
+            echo "<div><hr><strong>Uptime</strong>: this server is up $days days $hours hours $mins minutes and $secs seconds</div>";
+			
+			echo '<div class="box"><hr> Your IP address is something you might rarely think about, it\'s important to know what your IP address is and when it changes. Your IP address is used to identify computers on the Internet. <hr> Want to know more about IP addresses <a href="https://en.wikipedia.org/wiki/IP_address">click here</a> - Wiki Reference. <img class="img-show-ip" src="https://ps.w.org/show-ip-address/assets/banner-772x250.jpg"> Show IP address, version 1.2</div>';
 		}
 		
 		// function dashboard widget

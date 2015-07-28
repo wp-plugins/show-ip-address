@@ -5,8 +5,8 @@ Description: A simple plugin to show your IP address information.
 Tags: lookup ip address, ip lookup, ip address, show ip address
 Licence: GPL2
 Requires at least: 3.6
-Tested up to: 4.2.2
-Stable tag: 1.1
+Tested up to: 4.2.3
+Stable tag: 1.2
 
 == Description ==
 
@@ -17,6 +17,9 @@ The idea is simple, give it a go, let us know what you think of this plugin. Any
 * Your home page
 * Posts
 * Pages
+
+#### Dashboard widget:
+* Includes a server uptime module built into the dashboard widget, I have also included a link to a wiki page which covers information to do with IP addresses.
 
 #### This is a FREE plugin
 
@@ -74,3 +77,6 @@ This simply shows an IP address on a specific page or widget by simply adding in
 
 = 1.1 =
 * Added in a settings area and updated the admin display.
+
+= 1.2 =
+* Added in a server uptime section onto the dashboard widget.
